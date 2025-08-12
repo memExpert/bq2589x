@@ -1,0 +1,27 @@
+{
+  "name": "bq2589x",
+  "version": "1.0.0",
+  "description": " TI BQ25895 driver for Arduino ",
+  "keywords": "bq2589x",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/memExpert/bq2589x"
+  },
+  "authors":
+  [
+    {
+      "name": "Spencer",
+      "email": "spencer.chen7@gmail.com",
+      "url": "spencer1979.github.io"
+    },
+    {
+      "name": "Maksim Hanchar",
+      "email": "pottermax2000@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
