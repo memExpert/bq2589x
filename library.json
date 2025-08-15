@@ -21,6 +21,9 @@
     }
   ],
   "license": "MIT",
-  "frameworks": "arduino",
+  "dependencies": {
+    "Wire": ""
+  },
+  "frameworks": ["arduino", "espidf"],
   "platforms": "*"
 }

@@ -17,3 +17,10 @@
 
 * Fixed manifest in library.json
 * Added some info in readme.
+
+
+## [1.0.2] 2025-08-15
+
+### Added \<Wire\> to dependencies list
+
+* `Wire` added to `library.json`
