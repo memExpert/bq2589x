@@ -2,7 +2,7 @@
  * @file basic.cpp
  * @author Spencer Chen (spencer.chen7@gmail.com)
  * @brief basic example
- * @version 1.0.0
+ * @version 1.0.1
  * @date 2025-08-12
  * 
  */

@@ -1,6 +1,6 @@
 {
   "name": "bq2589x",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": " TI BQ25895 driver for Arduino ",
   "keywords": "bq2589x",
   "repository":
@@ -12,8 +12,7 @@
   [
     {
       "name": "Spencer",
-      "email": "spencer.chen7@gmail.com",
-      "url": "spencer1979.github.io"
+      "email": "spencer.chen7@gmail.com"
     },
     {
       "name": "Maksim Hanchar",
