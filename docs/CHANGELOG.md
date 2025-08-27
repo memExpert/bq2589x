@@ -24,3 +24,9 @@
 ### Added \<Wire\> to dependencies list
 
 * `Wire` added to `library.json`
+
+## [1.0.3] 2025-08-15
+
+### Removed \<Wire\> from dependencies list
+
+* `Wire` removed from `library.json`
